@@ -5,3 +5,10 @@
 .ratting{
     color: #41f4fae0;
 }
+.carousel-indicators .active{
+    background-color: rgb(53, 221, 243);
+}
+
+.carousel-indicators .indicator-button{
+    color: gold;
+}
